@@ -7,7 +7,6 @@ from flask import current_app
 from .extensions import db, ray
 import time
 
-
 import datetime
 import dateutil.relativedelta
 
